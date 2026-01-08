@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=G1Heo&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=G1Heo&layout=compact)
 <!-- GitHub Stats Card -->
-[![G1 GitHub stats](https://github-readme-stats.vercel.app/api?username=SG1Heo&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=G1Heo&show_icons=true)
